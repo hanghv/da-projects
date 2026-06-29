@@ -1,4 +1,4 @@
-# MINT CLASSICS WAREHOUSE OPTIMIZATION CASE STUDY
+# MINT CLASSICS WAREHOUSE OPTIMIZATION CASE STUDY USING SQL
 ## 1. Project Overview
 Mint Classics is a retailer of classic model cars and other vehicles. They are looking at closing one of the warehouses while still maintaining timely service to their customers. This project analyzes inventory as well as product and order data in order to provide data-driven recommendations to support warehouse consolidation.
 ## 2. Brainstorming
